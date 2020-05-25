@@ -13,7 +13,7 @@
 	description: Interactuando con Bases de Datos. Version NodeJS
 	entry point: (index.js)
 	keywords: NodeJS MongoDB
-	author: Sergio Regalado Alessi
+	author: Pool Ramos Ramos
 	license(ISC): MIT
 6.- Instalar Dependencias
 	npm i -S express

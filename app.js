@@ -15,7 +15,7 @@ app.use('/', express.static(__dirname + '/vista'));
 
 //Manejador de sesiones de usuarios
 app.use(session({
-	secret: 'EstaEsMiClaveSecreta_123456_SergioRegaladoAlessi',
+	secret: 'EstaEsMiClaveSecreta_123456_PoolRamosRamos',
 	cookie: {maxAge: 72000000},
 	resave: false,
 	saveUninitialized: true
